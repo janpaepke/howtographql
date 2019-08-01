@@ -152,7 +152,7 @@ In general, the process for you to add some data fetching logic will be very sim
 
 1. write the query as a JavaScript constant using the `gql` parser function
 1. use the `<Query />` component passing the GraphQL query as prop
-1. access the query results that gets injected into the component's `render prop function`
+1. access the query results that get injected into the component's `render prop function`
 
 <Instruction>
 
